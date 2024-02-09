@@ -1,0 +1,33 @@
+/* THIS IS A CSS COMMENT*/
+
+body {
+  background-color:#fffdfe;
+  font-family: 'Oswald', sans-serif;
+}
+H1 {
+font-family: 'Oswald', sans-serif;
+color: white;
+text-align: center;
+}
+
+H2 {
+  text-align: center;
+}
+
+H3 {
+  text-align: center;
+}
+p {
+font-family: 'Oswald', sans-serif;
+}
+
+.headbox {
+  background-color: #992c18;
+  padding: 10 0 10px 10px;
+  margin: 0px 0 0px 0px;
+}
+
+.imagestyle {
+  width:500px;
+}
+
