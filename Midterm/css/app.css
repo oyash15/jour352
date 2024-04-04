@@ -1,0 +1,119 @@
+
+
+
+H1 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+  border: 10px;
+  border-style: solid;
+  border-color: mediumpurple;
+  border-width: 20px;
+  padding: 10px 0 10px 0;
+}
+
+h6 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+  font-color: black;
+  width: auto;
+}
+
+h7 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+  font-color: black;
+  width: auto;
+}
+
+.Top {
+
+	padding: 20px 20px 20px 20px;
+	float: center;
+}
+
+
+.container {
+	display: flex;
+	justify-content: space-around;
+
+}
+
+
+p {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: left;
+  font-color: black;
+  width: auto;
+  padding: 0 10px 10px 70px;
+}
+
+h5{
+font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: left;
+  font-color: black;
+  width: auto;
+  padding: 0 0px 10px 70px;
+}
+
+.pull-quote {
+  float: left; 
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  width: 100%; 
+  padding: 20px 20px;
+  margin: 0 50px 20px;
+  font-size: 1.25em;
+  font-style: italic;
+  color: black;
+  background-color: mediumpurple;
+  text-align: center;
+}
+
+.pull-quote cite {
+  display: block;
+  text-align: center;
+  font-style: normal;
+  font-size: 0.8em;
+  margin-top: 10px;
+  color: black;
+}
+
+
+
+.Trailer {
+	padding: 0 70px;
+}
+
+
+.Bottom {
+	font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-color: black;
+  float: right;
+  width: 60%;
+  padding: 0 30px 10px 20px;
+}
+
+.juxtapose{
+	align-content: left;
+	 padding: 0 10px 10px 80px;
+}
+
