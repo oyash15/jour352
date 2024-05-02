@@ -1,0 +1,123 @@
+
+
+h5 {
+   font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-color: black;
+  width: auto;
+}
+
+.Top {
+
+  float: center;
+}
+
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  background-color: #f1ca2a;
+
+}
+
+.dating{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: left;
+  font-color: black;
+  width: auto;
+  float: center;
+}
+.chartone {
+  padding:0 0 0 50px;
+}
+
+.charttwo {
+  padding:0 0 100px 50px;
+}
+
+.chartthree {
+  padding:0px 0px 5px 50px;
+}
+
+p {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: left;
+  font-color: black;
+  width: auto;
+  padding: 0 200px 10px 800px;
+}
+
+h3{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: left;
+  font-color: black;
+  width: auto;
+  padding: 0 0px 10px 70px;
+
+
+}
+
+
+h5{
+font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: left;
+  font-color: black;
+  width: auto;
+  padding: 0 200px 0px 200px;
+}
+
+.pull-quote {
+  float: left; 
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  width: 100%; 
+  padding: 20px 20px;
+  margin: 0 50px 20px;
+  font-size: 1.25em;
+  color: black;
+  background-color: #f1ca2a;
+  text-align: center;
+}
+
+.pull-quote cite {
+  display: block;
+  text-align: center;
+  font-style: normal;
+  font-size: 0.8em;
+  margin-top: 10px;
+  color: black;
+}
+
+
+
+.Bottom {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-color: black;
+  float: right;
+  width: 60%;
+  padding: 0 30px 10px 20px;
+}
+
+.juxtapose{
+  align-content: left;
+   padding: 0 10px 10px 80px;
+}
+
